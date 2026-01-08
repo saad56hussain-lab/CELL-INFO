@@ -15,7 +15,7 @@ document.getElementById("navbar").innerHTML = `
             </ul>
         </li>
 
-        <li><a href="comparision.html">Comparision</a></li>
+        <li><a href="comparison.html">Comparision</a></li>
         <li><a href="contact.html">Contact Us</a></li>
     </ul>
 </nav>`
@@ -27,17 +27,17 @@ document.getElementById("footer").innerHTML = `
 </div>
 <div class="child3">
     <h2>HELPFUL LINKS</h2>
-<a href="">HOME</a>
-<a href="">ABOUT</a>
+<a href="index.html">HOME</a>
+<a href="about.html">ABOUT</a>
 <a href="">CATEGORIES</a>
-<a href="">COMPARISION</a>
-<a href="">CONTACT</a>
+<a href="comparison.html">COMPARISON</a>
+<a href="contact.html">CONTACT</a>
 </div>
 <div class="child4">
     <h2>CATEGORIES</h2>
-<a href="">APPLE</a>
-<a href="">SAMSUNG</a>
-<a href="">PIXEL</a>
+<a href="apple.html">APPLE</a>
+<a href="samsung.html">SAMSUNG</a>
+<a href="pixel.html">PIXEL</a>
 </div>
 <div class="child5">
     <h2>CONTACT</h2>
